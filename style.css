@@ -1,0 +1,47 @@
+/* Container holding the image and the text */
+.container1 {
+  position: center;
+}
+
+/* Center text */
+.text-block {
+  position: absolute;
+  bottom: -10px;
+  right: 800px;
+  background-color: lightblue;
+  color: white;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+/* Container holding the image and the text */
+.container2 {
+  position: center;
+}
+
+/* Center text */
+.text-block {
+  position: absolute;
+  bottom: -10px;
+  right: 300px;
+  background-color: lightblue;
+  color: white;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+/* Container holding the image and the text */
+.container3 {
+  position: center;
+}
+
+/* Center text */
+.text-block {
+  position: absolute;
+  bottom: 60px;
+  right: 370px;
+  background-color: lightblue;
+  color: white;
+  padding-left: 100px;
+  padding-right: 100px;
+}
